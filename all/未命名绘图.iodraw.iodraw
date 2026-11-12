@@ -16,8 +16,11 @@
         <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-1" target="y2x_Hu4Ni9gqRTTWlwAR-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Fz_nE-JMhUiEdEDBAkJH-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-1" target="Fz_nE-JMhUiEdEDBAkJH-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="Fz_nE-JMhUiEdEDBAkJH-2" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="106.33718427000251" y="248.4429123600032" as="sourcePoint" />
+            <mxPoint x="40.002815729997494" y="159.9970876399968" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-1" value="Idle&lt;div&gt;待机动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
           <mxGeometry x="80" y="240" width="120" height="80" as="geometry" />
