@@ -1,0 +1,132 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/157.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="_EZDc9f1UnUJQhjRnWIc">
+    <mxGraphModel dx="2901" dy="1132" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-17" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-1" target="y2x_Hu4Ni9gqRTTWlwAR-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="320" as="sourcePoint" />
+            <mxPoint x="130" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-31" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-1" target="y2x_Hu4Ni9gqRTTWlwAR-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Fz_nE-JMhUiEdEDBAkJH-2" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-1" target="Fz_nE-JMhUiEdEDBAkJH-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-1" value="Idle&lt;div&gt;待机动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-3" target="y2x_Hu4Ni9gqRTTWlwAR-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="400" as="sourcePoint" />
+            <mxPoint x="150" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-27" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="130" y="480" as="sourcePoint" />
+            <mxPoint x="130" y="560" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-3" target="y2x_Hu4Ni9gqRTTWlwAR-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-3" value="Walk&lt;div&gt;行走动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-4" target="y2x_Hu4Ni9gqRTTWlwAR-5" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-28" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="560" as="sourcePoint" />
+            <mxPoint x="150" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-4" target="y2x_Hu4Ni9gqRTTWlwAR-30" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-4" value="Run&lt;div&gt;奔跑动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="80" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-9" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-5" target="y2x_Hu4Ni9gqRTTWlwAR-8" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-5" value="Jump_Start&lt;div&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;跳跃开始动作&lt;/span&gt;&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-11" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-8" target="y2x_Hu4Ni9gqRTTWlwAR-10" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="746.270665818131" y="371.3597196555238" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-8" value="Jump_Rise&lt;br&gt;&lt;div&gt;上升动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-13" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-10" target="y2x_Hu4Ni9gqRTTWlwAR-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-10" value="Airborne&lt;div&gt;滞空动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="800" y="320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-15" value="" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;fontColor=default;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-12" target="y2x_Hu4Ni9gqRTTWlwAR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-12" value="Jump_Fall&lt;div&gt;下落动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="560" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-14" target="y2x_Hu4Ni9gqRTTWlwAR-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-14" value="Land&lt;div&gt;落地动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="320" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-35" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-30" target="y2x_Hu4Ni9gqRTTWlwAR-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-30" value="Hit&lt;div&gt;受击动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-38" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-34" target="y2x_Hu4Ni9gqRTTWlwAR-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-45" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-34" target="y2x_Hu4Ni9gqRTTWlwAR-44" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-34" value="Hit_Down&lt;div&gt;受击倒下动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-41" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-37" target="y2x_Hu4Ni9gqRTTWlwAR-40" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-37" value="Down&lt;div&gt;保持倒下动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-400" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-42" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-40" target="y2x_Hu4Ni9gqRTTWlwAR-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-40" value="Get_Up&lt;div&gt;起身动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-160" y="240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-46" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="y2x_Hu4Ni9gqRTTWlwAR-44" target="y2x_Hu4Ni9gqRTTWlwAR-37" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="y2x_Hu4Ni9gqRTTWlwAR-44" value="Hit_Fly_Down&lt;div&gt;被击飞倒下动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" parent="1" vertex="1">
+          <mxGeometry x="-640" y="400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Fz_nE-JMhUiEdEDBAkJH-1" value="Idle&lt;div&gt;待机动作&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;rounded=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="80" y="80" width="120" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
